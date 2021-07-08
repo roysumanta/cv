@@ -1,0 +1,170 @@
+body{
+    background-color:white;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#40514E;
+}
+
+div.top-container{
+    background-color: #E8F6EF;
+    width: 100%;
+    position: relative;
+    padding-top: 100px;
+}
+
+.intro{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    
+}
+
+.subtitle{
+    font-weight: normal;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF; 
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+div.middle-container{
+    
+}
+div.bottom-container{
+   background-color: #66BFBF;
+   margin-top:40px;
+   margin-bottom: 0px;
+   padding:40px;
+}
+
+.bottomcloud{
+    position: absolute;
+    left:20%;
+    bottom:220px
+}
+
+.topcloud{
+    position: absolute;
+    right: 20%;
+    top:40px
+}
+
+.mountain{
+    height: 240px;
+}
+
+a{
+    color:#11999E; 
+}
+
+
+div.skill-row{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.primary-skillsimg{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+.secondary-skillsimg{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+
+.skills-heading{
+    text-align: left;
+   
+}
+
+.skills-desc{
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.display-pic{
+   width:25%;
+}
+
+.profile{
+    width: 50%;
+    margin:50px auto;
+}
+
+.my-desc{
+    text-align: center;
+    color: #40514E;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+
+.contact-mebtn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 10px;
+    color:#EAF6F6;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px 20px 10px 20px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+
+ .copyright{
+     margin-bottom: 0px;
+     color:#EAF6F6; 
+ }
+
+ .footer-link{
+    margin:20px;
+    color: #11999E;
+    text-decoration-line: none;
+ }
+
+ .contact-me{
+     width: 50%;
+     margin:50px auto;
+ }
+
+ .contact-me-text{
+     text-align: center;
+     margin-bottom: 30px;
+ }
+
+ p{
+     line-height: 2;
+ }
+
+ a:hover{
+     color:#EAF6F6
+ }
